@@ -33,20 +33,7 @@ Where I publish my content ✍🏻
 - [Create your e-commerce website for test automation using Amazon Lightsail and PrestaShop](https://dev.to/aws-builders/create-your-ecommerce-website-for-test-automation-using-amazon-lightsail-and-prestashop-17pg)
 <!-- BLOG-POST-LIST:END -->
 
-
- ## 📊 Github Stats
-
   <br/>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="moatazeldebsy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moatazeldebsy&show_icons=true&count_private=true" height="192px"/></a>
-<br/>
-  &nbsp;
-	
-  <br/>
-
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moatazeldebsy&langs_count=8)](https://github.com/moatazeldebsy/github-readme-stats)
-
  
  ### Technologies & Tools and IDEs 👨🏻‍💻🤖
  
