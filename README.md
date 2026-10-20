@@ -1,51 +1,78 @@
-👋 Hi, I'm Moataz Nabil! I’m the book author of [Mobile DevOps Playbook](https://www.amazon.com/Mobile-DevOps-Playbook-accelerating-high-quality/dp/1803242558/ref=sr_1_1?keywords=9781803242552&qid=1680253844&sr=8-1), currently working as Software Engineering Manager at [Aviv Group](https://www.aviv-group.com/),  previously worked at [Bitrise](https://bitrise.io/), [Delivery Hero SE](https://www.deliveryhero.com/) and [Zalando SE](https://corporate.zalando.com/en) helping mobile engineers to deliver fast, reliable, and secure mobile apps and helping companies to build their developer productivity teams. Bitrise Expert, [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=moataz&cb-cards.q_operator=AND), and Instructor on [TestAutomationU](https://testautomationu.applitools.com/instructors/moataz_nabil.html) and [Udemy](https://www.udemy.com/course/selenium-webdriver-from-foundation-to-framework-in-arabic/?referralCode=070F61E78CBA6A4AD2D3).
+# Hi, I'm Moataz Nabil
 
-I have over 14 years of experience in software development, test automation, developer productivity, software testing, and service delivery. I am passionate about creating technological solutions that close the loop between software development and service delivery. 
+**Platform & Quality Engineering Leader.** I build internal developer platforms and quality systems that help engineering teams ship quickly without breaking things.
 
-## Key Projects 📚
-- **[The Internet Automation with Playwright and TypeScript](https://github.com/moatazeldebsy/the-internet-automation-playwright-typescript):** This project is designed to automate the testing of various web functionalities using Playwright in a TypeScript setup. It targets a demo website called The Internet for practicing automation testing.
-- **[Mobile DevOps Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook):** This is the code repository for Mobile DevOps Playbook, published by Packt.
-- **[Appium-Server-GitHub-Action](https://github.com/moatazeldebsy/Appium-Server-GitHub-Action):** Running Appium Server with GitHub Action to be able to run Appium mobile test automation scripts.
-- **[parallelize-android-UI-Tests-with-Bitrise](https://github.com/moatazeldebsy/parallelize-android-UI-Tests-with-Bitrise):** Demo for Parallelize Android UI Tests with Bitrise, Flank and Firebase Test Lab.
-- **[Espresso-TAU](https://github.com/moatazeldebsy/Espresso-TAU):** The demo repository for Espresso course for Test Automation University.
-- **[TestCafe-TAU](https://github.com/moatazeldebsy/TestCafe-TAU):** This repo contains the course material for the Test Automation University Course Introduction to E2E Web Testing using TestCafe
-- **[Appium-TAU](https://github.com/moatazeldebsy/Appium-TAU):** This repo contains the course material for the Test Automation University Course Mobile Testing using Appium and Java.
-- **[sauce-labs-app-automate-action](https://github.com/moatazeldebsy/sauce-labs-app-automate-action):** A GitHub Action for running Espresso Tests for Android using Sauce Labs Runner
+**Open to:** Head of, Senior Engineering Manager, Engineering Manager, or Staff-level roles in Platform Engineering, Developer Experience, or Quality Engineering · Berlin or remote
 
-## Connect with Me 📬
+📬 [LinkedIn](https://www.linkedin.com/in/moataz-nabil/) · [Blog](https://moataznabil.blog/) · [Twitter / X](https://twitter.com/Moatazeldebsy)
 
-- [Twitter](https://twitter.com/Moatazeldebsy)
-- [LinkedIn](https://www.linkedin.com/in/moataz-nabil/)
+## What I bring
 
+- **Platform engineering:** I designed and open-sourced a complete IDP: Backstage, ArgoCD, Crossplane on EKS, 60 golden-path templates, and an optional AI layer with MCP servers and agents. It runs locally in about 30 minutes.
+- **Quality engineering at scale:** test strategy, automation frameworks, quality gates, and metrics for web and mobile teams, now including LLM evaluation and AI-assisted testing.
+- **Mobile DevOps:** author of [*Mobile DevOps Playbook*](https://www.amazon.com/Mobile-DevOps-Playbook-accelerating-high-quality/dp/1803242558) (Packt).
+- **Teaching and community:** instructor on [Test Automation University](https://testautomationu.applitools.com/instructors/moataz_nabil.html) and conference speaker, most recently at WeAreDevelopers Berlin 2026.
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+## Featured work
 
-## Where I publish my content ✍🏻 
-- [Youtube Channel](https://www.youtube.com/c/MoatazNabil01) with Arabic videos about test automation and AWS
-- [Personal Blog](https://moataznabil.blog/) Where I publish a series of videos, talks, and articles.
-- [Bitrise Blog](https://blog.bitrise.io/author/moataz-nabil) The Offical Bitrise blog
-- [Test Automation University](https://testautomationu.applitools.com/instructors/moataz_nabil.html) - My free online courses
-- [Applitools](https://applitools.com/blog/author/moataznabil/) The Official Applitools blog 
-- [Medium](http://moatazeldebsy.medium.com/)
-- [Dev.to](https://dev.to/moataznabil)
-- [AWS Community](https://community.aws/@moataz)
-- [DZone](https://dzone.com/users/3017444/moataznabil.html)
+### Platform Engineering & Developer Experience
 
-### Blog posts
+- **[100 Days of Platform Engineering & DevEx](https://moataznabil.blog/100-days/platform)**: a free curriculum I wrote, with 100 hands-on lessons in 10 phases covering the operating model, golden paths, and the core capabilities of a developer platform.
+- **[backstage-platform-template](https://github.com/moatazeldebsy/backstage-platform-template)**: an open-source IDP you can get running with a single `git clone`. It includes Backstage, ArgoCD, Crossplane, EKS, 60 golden-path templates, and AI agents over MCP.
+- **[Mobile-DevOps-Playbook](https://github.com/moatazeldebsy/Mobile-DevOps-Playbook)**: companion code for my Packt book.
+- **[Appium-Server-GitHub-Action](https://github.com/moatazeldebsy/Appium-Server-GitHub-Action)** (★50+): runs an Appium server inside GitHub Actions for mobile CI.
+
+### Quality Engineering & AI
+
+- **[100 Days of Quality Engineering & Test Automation](https://moataznabil.blog/100-days/qa)**: a free curriculum I wrote, going from QA foundations to quality leadership. It covers test strategy, UI and API automation, contract, mobile, performance, security and accessibility testing, and AI in testing.
+- **[copilot-testing-workshop](https://github.com/moatazeldebsy/copilot-testing-workshop)**: GenAI in Testing, a workshop on using GitHub Copilot to speed up quality work without losing trust (WeAreDevelopers Berlin 2026).
+- **[qa-engineering-deep-dive](https://github.com/moatazeldebsy/qa-engineering-deep-dive)**: QA Engineering in the AI Era, with 8 modules and 8 runnable labs covering Playwright, k6, promptfoo LLM evals, quality gates, and metrics.
+- **[test-automation-practices](https://github.com/moatazeldebsy/test-automation-practices)** (★45): a practice platform with real-world test automation scenarios.
+
+## Tech stack
+
+- **Platform:** Kubernetes, Helm, ArgoCD, Crossplane, Backstage, Terraform, OPA/Gatekeeper
+- **Cloud & observability:** AWS (EKS), Prometheus, Grafana, OpenTelemetry, Datadog, FinOps
+- **Quality:** Playwright, Cypress, Appium, Espresso, k6, Pact, SonarQube, promptfoo
+- **CI/CD & AI:** GitHub Actions, Bitrise, GitHub Copilot, MCP
+
+## Certifications
+
+Certified Cloud Native Platform Engineering Associate (CNPA) · Certified Backstage Associate (CBA) · Certified GitOps Associate (CGOA) · Kubernetes and Cloud Native Associate (KCNA) · AWS Certified Cloud Practitioner · GitHub Copilot · Datadog Fundamentals · FinOps Foundation
+
+<p align="left">
+  <a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d"><img src="images/aws.png" alt="AWS certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5"><img src="images/cnpa.png" alt="CNPA certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/137ed25f-9eb7-4804-8cf3-e55a67ad21f6/public_url"><img src="images/kcna.png" alt="KCNA certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/1ccb1498-451d-4964-86e0-41928fcc0df5/public_url"><img src="images/gitops.png" alt="GitOps certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc"><img src="images/cba.png" alt="CBA certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/20dce440-2514-4a65-8a49-179c79b117b0/public_url"><img src="images/copilot.png" alt="GitHub Copilot certification" width="80" height="80"></a>
+  <a href="https://www.credly.com/badges/7115900f-92fb-4d98-a6dd-dcc1f7d0dc8e/public_url"><img src="images/datadog.png" alt="Datadog certification" width="80" height="80"></a>
+  <a href="https://verify.skilljar.com/c/3knsj5s24xah"><img src="images/finops-foundation.png" alt="FinOps Foundation certification" width="80" height="80"></a>
+</p>
+
+## Writing & talks
+
+- [Talks at conferences and meetups](https://www.youtube.com/playlist?list=PLTgnULQbEpQDsrNfLGfOTCJ--8ovbmata)
+- [Test Automation University courses](https://testautomationu.applitools.com/instructors/moataz_nabil.html): Appium, Espresso, TestCafe
+- [YouTube](https://www.youtube.com/c/MoatazNabil01) (Arabic, test automation and AWS)
+- Articles on [Dev.to](https://dev.to/moataznabil), [Medium](http://moatazeldebsy.medium.com/), and the [Bitrise](https://blog.bitrise.io/author/moataz-nabil) and [Applitools](https://applitools.com/blog/author/moataznabil/) blogs
+
+### Recent posts
+
 <!-- BLOG-POST-LIST:START -->
+- [Platform Engineering with AWS: What You Need to Know](https://dev.to/aws-builders/platform-engineering-with-aws-what-you-need-to-know-23b8)
 - [Optimizing Test Automation at Scale: Important Metrics and Calculating ROI](https://moatazeldebsy.medium.com/optimizing-test-automation-at-scale-important-metrics-and-calculating-roi-553c2ff66edb?source=rss-22507dab7991------2)
 - [Elevating Code Quality: The Power of Static Code Analysis in Modern Software Development](https://medium.com/aviv-product-tech-blog/elevating-code-quality-the-power-of-static-code-analysis-in-modern-software-development-e0316e303afb?source=rss-22507dab7991------2)
 - [The key responsibilities of a Software Quality Manager: ensuring high-quality software development](https://dev.to/moataznabil/the-key-responsibilities-of-a-software-quality-manager-ensuring-high-quality-software-development-3a9f)
 - [Cloud Test Automation on AWS: The Role of QA Engineers](https://dev.to/aws-builders/cloud-test-automation-on-aws-the-role-of-qa-engineers-4j23)
 - [Unveiling my first book “Mobile DevOps Playbook”: Your Handbook for Faster, High-Quality Mobile App…](https://moatazeldebsy.medium.com/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-19affc21ebfa?source=rss-22507dab7991------2)
-- [Unveiling my first book “Mobile DevOps Playbook” – Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://moataznabil.blog/2023/04/27/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-%f0%9f%93%b1%f0%9f%9a%80/)
 - [Unveiling my first book &quot;Mobile DevOps Playbook&quot;: Your Handbook for Faster, High-Quality Mobile App 📱🚀](https://dev.to/moataznabil/unveiling-my-first-book-mobile-devops-playbook-your-handbook-for-faster-high-quality-mobile-app-28m3)
-- [2022, Year in Review 🙌🏻](https://moataznabil.blog/2022/12/28/2022-year-in-review-%f0%9f%99%8c%f0%9f%8f%bb/)
 - [The Most Beneficial AWS Services for QA Engineers](https://dev.to/aws-builders/the-most-beneficial-aws-services-for-qa-engineers-40f7)
 - [Getting started with Appium 2.0: Your beginner’s guide](https://dev.to/moataznabil/getting-started-with-appium-20-your-beginners-guide-3m32)
+- [Getting started with Maestro: The new mobile UI testing framework from Mobile.dev](https://dev.to/moataznabil/getting-started-with-maestro-the-new-mobile-ui-testing-framework-from-mobiledev-2n0k)
 <!-- BLOG-POST-LIST:END -->
 
-### Talks at conferences
-Here is a playlist of my talks at various conferences, meetups, and user groups:
+## Let's talk
 
-https://www.youtube.com/playlist?list=PLTgnULQbEpQDsrNfLGfOTCJ--8ovbmata
+If you're building a platform or quality team and want someone who has done both hands-on and as a leader, message me on [LinkedIn](https://www.linkedin.com/in/moataz-nabil/).
