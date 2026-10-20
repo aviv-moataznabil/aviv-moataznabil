@@ -34,20 +34,6 @@
 - **Quality:** Playwright, Cypress, Appium, Espresso, k6, Pact, SonarQube, promptfoo
 - **CI/CD & AI:** GitHub Actions, Bitrise, GitHub Copilot, MCP
 
-## Certifications
-
-Certified Cloud Native Platform Engineering Associate (CNPA) · Certified Backstage Associate (CBA) · Certified GitOps Associate (CGOA) · Kubernetes and Cloud Native Associate (KCNA) · AWS Certified Cloud Practitioner · GitHub Copilot · Datadog Fundamentals · FinOps Foundation
-
-<p align="left">
-  <a href="https://www.credly.com/badges/f70be083-1071-4ac9-b1f8-430faadbff4d"><img src="images/aws.png" alt="AWS certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/9776fecc-4ed3-490e-8e79-6609c0e61ed5"><img src="images/cnpa.png" alt="CNPA certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/137ed25f-9eb7-4804-8cf3-e55a67ad21f6/public_url"><img src="images/kcna.png" alt="KCNA certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/1ccb1498-451d-4964-86e0-41928fcc0df5/public_url"><img src="images/gitops.png" alt="GitOps certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/e029efb8-df4b-491d-a5de-bc0bf8190abc"><img src="images/cba.png" alt="CBA certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/20dce440-2514-4a65-8a49-179c79b117b0/public_url"><img src="images/copilot.png" alt="GitHub Copilot certification" width="80" height="80"></a>
-  <a href="https://www.credly.com/badges/7115900f-92fb-4d98-a6dd-dcc1f7d0dc8e/public_url"><img src="images/datadog.png" alt="Datadog certification" width="80" height="80"></a>
-  <a href="https://verify.skilljar.com/c/3knsj5s24xah"><img src="images/finops-foundation.png" alt="FinOps Foundation certification" width="80" height="80"></a>
-</p>
 
 ## Writing & talks
 
